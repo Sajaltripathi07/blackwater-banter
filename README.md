@@ -16,13 +16,7 @@
 
 ---
 
-## 📸 Screenshots
 
-| Login Page | Chat Room | Multiple Users |
-|------------|-----------|----------------|
-| ![Login](target/classes/static/screenshots/Login_Screenshot.png) | ![Chat](target/classes/static/screenshots/MainPage_Screenshot.png) | ![Multi](target/classes/static/screenshots/MultipleUser_Screenshot.png) |
-
----
 
 ## 🧰 Tech Stack
 
